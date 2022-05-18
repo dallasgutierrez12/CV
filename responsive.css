@@ -45,11 +45,6 @@
         padding-left: 0;
     }
 }
-@media screen and (max-width:799px) {
-    .description> div{
-        padding: 0 10px;
-    }
-}
 
 @media screen and (max-width:740px) {
     header{
@@ -62,6 +57,20 @@
     }
     .wrapper{
         left: 0;
+    }
+}
+@media screen and (max-width:715px) {
+    .description> div {
+        padding: 0  5px 0 40px;
+    }
+}
+@media screen and (max-width:440px) {
+    .description> .profile {
+        padding: 0  0px 0 5px;
+    }
+
+    .list-desc{
+        padding: 0  5px 0 25px;
     }
 }
 @media screen and (max-width:670px) {
