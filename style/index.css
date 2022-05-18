@@ -23,6 +23,7 @@ body{
     width: 100%;
     height: 100%;
     background: linear-gradient(to right, #000, transparent);
+    background: #000;
 }
 
 .backpro2{
@@ -195,7 +196,7 @@ main{
     margin-bottom: 40px;
 }
 aside{
-    position:sticky;
+    position:relative;
     top: 0;
     width: 30%;
     height: 100%;
