@@ -38,7 +38,7 @@ header{
     width: 100%;
     background: #000;
     display: flex;
-    background: url(./dallas-Profile2.jpg);
+    background: url(../images/dallas-Profile2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -208,8 +208,15 @@ aside{
     margin-bottom: 5px;
 }
 .skills{
-    margin: 15px 0px;
+    margin: 15px 0px 40px;
     padding-left: 5px;
+}
+
+.languagues{
+    margin-bottom: 45px;
+}
+.hobbies{
+    margin-bottom: 40px;
 }
 aside h4{
     padding: 5px;
@@ -230,6 +237,10 @@ aside p{
     height: 5px;
     background: rgb(122, 122, 122);
     border-radius: 15px;
+}
+
+.none{
+    display: none;
 }
 .social b{
     padding-left: 15px;
@@ -270,13 +281,13 @@ aside p{
 }
 
 .list-desc{
-    list-style-image:url(./icon-plus.png); 
+    list-style-image:url(../images/icons/icon-plus.png); 
 }
 .list-desc li{
     padding: 4px 0px;
 }
 .list-desc li ul{
-    list-style-image: url(./icon-menos.png);
+    list-style-image: url(../images/icons/icon-menos.png);
 }
 .sep{
     margin-bottom: 15px;
