@@ -292,6 +292,9 @@ aside p{
 .sep{
     margin-bottom: 15px;
 }
+.block360px,.block408px{
+    display: none;
+}
 .Knowledge{
     padding-left: 17px;
 }

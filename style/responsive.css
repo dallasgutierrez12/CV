@@ -222,6 +222,13 @@
     .description> .education {
         padding: 0  3px 0 12px;
     }
+    .block408px{
+        display: block;
+    }
+
+    .none408px{
+        display: none;
+    }
 }
 
 @media screen and (max-width:400px) {
@@ -231,6 +238,19 @@
     }
     header .contentImg{
         width: 100%;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .description > div h3{
+        font-size: 22px;
+    }
+    .block360px{
+        display: block;
+    }
+
+    .none360px{
+        display: none;
     }
 }
 
