@@ -1,0 +1,1 @@
+alert('No Acepto Ofertas Laborales');

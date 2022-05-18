@@ -50,18 +50,6 @@
         padding: 0 10px;
     }
 }
-@media screen and (max-width:768px) {
-    header{
-        background: url(./dallas-Profile2.jpg);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        backface-visibility: hidden;
-        position: relative;
-        background-attachment: fixed;
-    }
-}
-
 
 @media screen and (max-width:740px) {
     header{
