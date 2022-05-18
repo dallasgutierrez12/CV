@@ -85,7 +85,7 @@ header div img{
     left: 50%;
     transform: translate(-50%,-50%);
     filter: drop-shadow(0 0 7px rgb(0, 0, 0));
-    transition: filter .4s;
+    transition: all 1s;
 }
 header div img:hover{
     filter: drop-shadow(0 0 20px #000);
