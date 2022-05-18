@@ -64,6 +64,13 @@
         padding: 0  5px 0 40px;
     }
 }
+@media screen and (max-width:595px) {
+    aside{
+        display: flex;
+        flex-direction: column;
+       
+    }
+}
 @media screen and (max-width:440px) {
     .description> .profile {
         padding: 0  0px 0 5px;
