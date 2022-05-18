@@ -80,6 +80,14 @@
         padding: 0  5px 0 25px;
     }
 }
+@media screen and (max-width:408px) {
+    .description> .history {
+        padding: 0  3px 0 7px;
+    }
+    .description> .education {
+        padding: 0  3px 0 12px;
+    }
+}
 @media screen and (max-width:670px) {
     header .contentImg{
         width: 40%;
