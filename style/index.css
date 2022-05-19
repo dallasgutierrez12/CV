@@ -203,7 +203,7 @@ main{
     height: 100%;
     position: relative;
     z-index: 600;
-    background: rgb(224, 223, 223);
+    background: rgb(255, 255, 255);
     display: flex;
     padding-bottom: 40px;
 }
